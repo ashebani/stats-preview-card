@@ -166,7 +166,7 @@ p {
   .background-overlay {
     position: absolute;
     width: 500px;
-    height: 412px;
+    height: 413px;
     background: hsl(276, 60%, 30%, 0.6);
     z-index: 1000;
   }
